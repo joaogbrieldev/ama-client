@@ -14,7 +14,8 @@
     "react": "19.0.0-rc-3208e73e-20240730",
     "react-dom": "19.0.0-rc-3208e73e-20240730",
     "react-router-dom": "6.25.1",
-    "sonner": "1.5.0"
+    "sonner": "1.5.0",
+    "@tanstack/react-query": "5.51.17"
   },
   "devDependencies": {
     "@types/react": "npm:types-react@rc",
